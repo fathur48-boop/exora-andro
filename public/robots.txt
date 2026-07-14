@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /dashboard
+Disallow: /admin
+Disallow: /login
+Disallow: /invoice
+Disallow: /r/
+
+Sitemap: https://myexora.com/sitemap.xml
